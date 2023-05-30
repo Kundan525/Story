@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi evreyone, Hope everything is fine.
 I am here to rule.
+=======
+It was the age of wisdom, it was the age of foolishness.
+I am Kundan Kumar
+>>>>>>> alien-plot
